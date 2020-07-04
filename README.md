@@ -1,6 +1,6 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-getting-started)
 
-# Angular 9 Boilerplate 
+# Angular 9 Todo List
   Angular 9 boiler plate with footer, header and material module enabled.
 
 ## Tech Stack
