@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Task } from '../model/Task';
+import { Task } from '../../model/task';
 
 @Component({
   selector: 'app-home',
